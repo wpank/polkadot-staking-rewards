@@ -1,0 +1,11 @@
+{
+  "name": "staking-ops-finances",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wpank <9498646+wpank@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^3.4.1",
+    "node-fetch": "^2.6.1"
+  }
+}
